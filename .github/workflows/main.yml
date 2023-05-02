@@ -26,5 +26,5 @@ jobs:
         with:
           args:
             -Dsonar.projectBaseDir=.
-            -Dsonar.projectKey=ChrisReferenceProjects_security-vulns-nodejs
-            -Dsonar.organization=chrisreferenceprojects
+            -Dsonar.projectKey=security-vulns-nodejs
+            -Dsonar.organization=sonarsource
