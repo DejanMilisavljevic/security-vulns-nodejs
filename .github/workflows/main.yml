@@ -29,3 +29,4 @@ jobs:
             -Dsonar.projectKey=security-vulns-nodejs
             -Dsonar.organization=sonarsource
             -Dsonar.host.url=https://dejansource.eu.ngrok.io
+            -Dsonar.plugins.origin=local
